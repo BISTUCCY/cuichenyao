@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <array name="items">
-        <item>Order</item>
-        <item>Random</item>
-        <item>Single</item>
-    </array>
-</resources>
